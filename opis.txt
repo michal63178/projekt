@@ -1,0 +1,4 @@
+Projekt bazy danych sklepu z częściami podzespołów komputeropwych.
+Baza zawiera produkty oraz zamówienia.
+Projekt umożliwia sprawdzanie jakie produkty są w sklepie,
+co zamówił klient, a także od kogo nabyliśmy towary jako sklep.
